@@ -1,1 +1,0 @@
-{"dependencies":[{"name":"babel-polyfill","loc":{"line":1,"column":7}},{"name":"./app","loc":{"line":2,"column":7}}],"generated":{"js":"\"use strict\";\n\nrequire(\"babel-polyfill\");\n\nrequire(\"./app\");"},"hash":"5d76bcd29f7ad547724e24e28a9247b0"}

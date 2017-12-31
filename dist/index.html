@@ -1,7 +1,10 @@
 <html>
 
 <body>
-    <div data-controller="hello">…</div>
+    <div data-controller="hello">
+        <button data-action="click->hello#greet">Greet</button>
+        <p data-target="hello.name">Hello</p>
+    </div>
 
     <script src="/dist/sabeur-base-js.js"></script>
 </body>

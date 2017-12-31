@@ -1,0 +1,1 @@
+{"dependencies":[{"name":"stimulus","loc":{"line":1,"column":17}}],"generated":{"js":"var _a = require('stimulus'),\n    Application = _a.Application,\n    Controller = _a.Controller;\n// class HelloController extends Controller {\n// }\n// const application = Application.start();\n// application.register('hello', HelloController);"},"hash":"d67abd2ae9ee7b8f685ba31be3fa063f"}

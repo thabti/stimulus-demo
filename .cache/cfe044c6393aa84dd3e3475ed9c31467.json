@@ -1,0 +1,1 @@
+{"dependencies":[{"name":"babel-polyfill","loc":{"line":3,"column":8}},{"name":"./app","loc":{"line":4,"column":8}}],"generated":{"js":"\"use strict\";\n\nexports.__esModule = true;\nrequire(\"babel-polyfill\");\nrequire(\"./app\");"},"hash":"3d7bd4c805fc0fb0b89834a46445781e"}

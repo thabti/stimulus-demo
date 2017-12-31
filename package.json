@@ -8,10 +8,9 @@
 		"dev:watch": "parcel watch index.html"
 	},
 	"dependencies": {
-
+		"babel-polyfill": "^6.26.0",
+		"babel-runtime": "^6.26.0",
 		"stimulus": "^0.9.0"
 	},
-	"devDependencies": {
-	
-	}
+	"devDependencies": {}
 }
